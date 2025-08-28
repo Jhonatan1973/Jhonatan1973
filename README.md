@@ -1,7 +1,7 @@
 
 🧑‍💻 Junior / Backend Developer
 
-🚀 Habilidades / Tecnologias
+🚀 Skills / Technologies
 ---
 <p align="left">
   <a href="https://skillicons.dev">
