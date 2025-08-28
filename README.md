@@ -9,7 +9,7 @@
 Aqui estão algumas das tecnologias e ferramentas que eu utilizo no meu dia a dia como desenvolvedor:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,linux,angular,postgre,git,mysql" />
+    <img src="https://skillicons.dev/icons?i=java,spring,linux,angular,postgres,git,mysql" />
   </a>
 </p>
 
