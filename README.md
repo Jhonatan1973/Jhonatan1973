@@ -5,7 +5,7 @@
 
 ---
 
-## 4️⃣ Habilidades / Tecnologias
+🚀 Habilidades / Tecnologias
 Aqui estão algumas das tecnologias e ferramentas que eu utilizo no meu dia a dia como desenvolvedor:
 <p align="center">
   <a href="https://skillicons.dev">
