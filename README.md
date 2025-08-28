@@ -1,5 +1,5 @@
 
-🧑‍💻 Desenvolvi sistemas de **controle de estoque e automação** usando **Java/Spring, Angular e PostgreSQL**  
+🧑‍💻 Junior / Backend Developer
 
 🚀 Habilidades / Tecnologias
 ---
