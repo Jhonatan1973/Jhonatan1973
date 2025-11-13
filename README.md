@@ -1,5 +1,5 @@
 
-🧑‍💻 Junior / Full Stack Developer
+🧑‍💻 Junior / backend Developer
 
 🚀 Skills / Languages
 ---
