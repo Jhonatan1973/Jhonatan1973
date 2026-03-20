@@ -1,5 +1,3 @@
-
-Crie um readme par aeu perfil, esse e ele agora, queria ais robusto e mais abranjente  
 🧑‍💻 Full Stack Developer
 
 🚀 Skills / Languages
