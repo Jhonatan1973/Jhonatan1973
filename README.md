@@ -49,12 +49,4 @@ Desenvolvedor Full Stack com experiência prática em **.NET, C#, Angular, Java 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
----
 
-### 📫 Como me encontrar
-
-<p align="left">
-  <a href="https://linkedin.com/in/jhonatan-domingues-silva-532145356" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:jhonatansilva5338@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/jhonatan1973" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
-</p>
