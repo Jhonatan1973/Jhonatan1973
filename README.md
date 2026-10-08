@@ -40,7 +40,7 @@ public class Jhonatan : Developer
     public string[] Data       => new[] { "SQL Server", "MySQL", "Relational Modeling" };
     public string[] Messaging  => new[] { "RabbitMQ", "Kafka" };
     public string[] DevOps     => new[] { "Docker", "Git", "VM Deploy", "Dev / Staging / Prod" };
-    public string   Education  => "B.Sc. Software Engineering @ UNIP (2026 – 2029)";
+    public string   Education  => "B.Sc. Software Engineering @ UNICID (2026 – 2029)";
     public string[] Languages  => new[] { "Portuguese (native)", "English (intermediate)", "Spanish (intermediate)" };
     public string   CurrentGoal => "Going deeper into software architecture & engineering best practices";
 }
@@ -151,7 +151,7 @@ public class Jhonatan : Developer
 ## 🎯 Currently
 
 - 🔭 Building enterprise systems with **.NET + Angular + SQL Server**
-- 🎓 Studying **Software Engineering** at UNIP — Universidade Paulista
+- 🎓 Studying **Software Engineering** at UNICID — Universidade Cidade de São Paulo
 - 🌱 Diving deeper into **software architecture, clean code and design patterns**
 - 🤝 Open to **Full Stack / Backend** roles and collaborations
 - 💬 Ask me about **C#, .NET, Spring Boot, SQL Server or messaging with RabbitMQ/Kafka**
